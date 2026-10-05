@@ -1,2 +1,3 @@
-# Bootcamp-1
-Esse repositório serve pra guardar meus projetos acadêmicos e pessoais que me ajudarão na minha carreira profissional futura.
+#github-page
+Criando site do portfólio
+Nesta área estamos desenvolvendo o portfólio pessoa e profissional de bootcamp I na etapa intermediária
